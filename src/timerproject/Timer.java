@@ -13,7 +13,7 @@ public class Timer {
 	private boolean canceled = false;
 	private Map<Long, List<TimerCallback>> events = new TreeMap<Long, List<TimerCallback>>();
 
-	//
+	// slack공유
 	// public boolean isCanceled() {
 	// return canceled;
 	// }
